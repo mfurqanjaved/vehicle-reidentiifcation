@@ -1,4 +1,4 @@
-# Vehicle-reidentiifcation
+# Vehicle-reidentifcation
 
 This project focuses on developing a robust system for vehicle reidentification, leveraging computer vision and deep learning techniques. The goal is to accurately identify vehicles from video or image data, even in challenging scenarios such as occlusions and varying viewpoints.
 
