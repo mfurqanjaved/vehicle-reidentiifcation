@@ -12,7 +12,7 @@ Robustness and Accuracy: Rigorous evaluation and experimentation to achieve high
 ### Installation
 To set up the project locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/vehicle-reidentification.git
+Clone the repository: git clone https://github.com/mfurqanjaved/vehicle-reidentiifcation
 Download the necessary dataset or provide your own vehicle images/videos.
 Configure the project settings and paths according to your environment.
 
